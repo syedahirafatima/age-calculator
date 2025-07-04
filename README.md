@@ -28,8 +28,8 @@ How to Run:
 Requirements:
 1. Python 3.x
 
-⚠️ Notes
+Notes:
 This is a basic age calculator. It doesn’t consider the birth month and day, so the exact age may vary depending on whether your birthday has occurred this year or not.
 
-📂 License
+License:
 This project is open-source and free to use.
